@@ -30,7 +30,7 @@
           <a href="#">Clients</a>
           <a href="#">Contact</a>
       </div>
-      <span id="openbtn" style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+      <span id="openbtn" style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; menu</span>
       
       {{ content }}
 
@@ -56,12 +56,12 @@
     <script>
       function openNav() {
           document.getElementById("mySidenav").style.width = "250px";
-          $("#openbtn").hide();
+          document.getElementById("openbtn").hide();
       }
 
       function closeNav() {
           document.getElementById("mySidenav").style.width = "0";
-          $("#openbtn").show();
+          document.getElementById("openbtn").show();
       }
     </script>
   </body>
