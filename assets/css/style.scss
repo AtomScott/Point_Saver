@@ -20,7 +20,7 @@
     padding: 8px 8px 8px 32px;
     text-decoration: none;
     font-size: 25px;
-    color: #818181;
+    color: white;
     display: block;
     transition: 0.3s;
 }
@@ -48,5 +48,5 @@ top:0;
 right:0;
 left:0;
 z-index:99;
-color: white;
+color: rgba(0,0,0,0.2);;
 }
