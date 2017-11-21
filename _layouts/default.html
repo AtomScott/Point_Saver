@@ -25,7 +25,6 @@
     <section class="main-content">
       <div id="mySidenav" class="sidenav">
           <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-	      <p>.</p>
       </div>
       <span id="openbtn" style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; menu</span>
       
@@ -67,7 +66,7 @@
       	function myFunction() {
 		for (i = 0; i < h.length; i++) {
 			h[i].setAttribute("id", "id"+i);
-			d.innerHTML += '<a href="'+"id"+i+'">'+h[i].innerHTML+'</a>';
+			d.innerHTML += '<a href="'+"#id"+i+'">'+h[i].innerHTML+'</a>';
 		}
 	}
 
