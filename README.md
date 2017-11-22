@@ -3,14 +3,18 @@
 　　※ その他のブラウザでの動作は保証しかねます。
 
     FireFoxをダウンロードしていない場合はダウンロードする必要があります．
-    以下のリンクからダウンロードしてください．
-    URL: [新しいファイアフォックス](https://www.mozilla.org/ja/firefox/new/)
-    
-    ![](pics/Sketch.png)
-### ツールの起動
-    PointSaverフォルダー内のindex.htmlを右クリック．
-    プログラムから開くを押して，FireFoxを選択する．
     
+    以下のリンクからダウンロードしてください．
+    
+    URL: [新しいファイアフォックス](https://www.mozilla.org/ja/firefox/new/)
+    
+### ツールの起動
+    PointSaverフォルダー内のindex.htmlを右クリック．
+    
+    プログラムから開くを押して，FireFoxを選択する．
+    
+        ![](pics/Sketch.png)
+
     
     
      
